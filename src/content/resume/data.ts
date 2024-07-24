@@ -19,8 +19,8 @@ export const resume: ResumeJson = {
 		email: ["saisailuhlaing@gmail.com"],
 		links: [
 			{
-				label: "https://sai-hlaing.github.io/sai-hlaing",
-				url: "https://sai-hlaing.github.io/sai-hlaing",
+				label: "https://saihlu.github.io/sai-hlaing/",
+				url: "https://saihlu.github.io/sai-hlaing/",
 			},
 			{
 				icon: "fa-brands fa-github",

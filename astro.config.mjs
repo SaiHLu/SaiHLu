@@ -5,7 +5,6 @@ import tailwind from "@astrojs/tailwind"
 // https://astro.build/config
 export default defineConfig({
 	integrations: [tailwind()],
-	site: "https://wai-lin.github.io",
-	base: "wai-lin"
+	site: "https://sai-hlaing.github.io",
+	base: "sai-hlaing",
 })
-

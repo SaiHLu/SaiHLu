@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind"
 export default defineConfig({
 	integrations: [tailwind()],
 	site: "https://sai-hlaing.github.io",
-	base: "sai-hlaing",
+	base: "SaiHLu",
 })

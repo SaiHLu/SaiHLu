@@ -4,7 +4,7 @@ export const resume: ResumeJson = {
 	positionAppliedFor: "Software Engineer",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `Hi, I'm a software engineer who is always trying to improve systems to make them more flexible, reliable and scalable. I have more than 4+ years of experience in software development. I can work with professionals in various fields and am willing to learn new things. I like playing video games and watching technology-related videos on YouTube. I'm currently interested in GoLang and learning Data structures and algorithms using Golang.`,
+	biography: `Hi, I'm a software engineer who is always trying to improve systems to make them more flexible, reliable and scalable. I have more than 4+ years of experience in software development. I can work with professionals in various fields and am willing to learn new things. I like playing video games and watching technology-related videos on YouTube. I'm currently interested in GoLang and learning Data structures and algorithms using Golang. github repository: https://github.com/SaiHLu/dsa`,
 
 	personalInfo: {
 		dateOfBirth: "08, 11, 1997",
@@ -70,7 +70,10 @@ export const resume: ResumeJson = {
 		"Linode",
 		"AWS EC2",
 		"AWS S3",
+		"AWS Cloudfront",
 		"AWS Fargate",
+		"AWS MSK",
+		"AWS Codepipelines",
 		"Vercel",
 		"Netlify",
 		"Docker",
@@ -128,6 +131,21 @@ export const resume: ResumeJson = {
 				"Standardize the Backend Development decisions such as using Nest.JS, TypeScript and Golang.",
 				"Pre-plan and run Proof-of-Concepts of new technologies for the upcoming features.",
 				"Listen to Yeastar Telephone Server websocket using golang, processing data and publish the critical data to Apache Kafka",
+				"Technologies: HTML, CSS, Javascript, TailwindCss, React.js, Node.js, Nest.js, Golang, Apache Kafka, AWS S3, AWS Ec2, AWS Cloudfront, AWS MSK, AWS Codepipelines, Git/Github, Postgres.",
+			],
+		},
+
+		{
+			companyName: "Atom Myanmar",
+			companyUrl: "https://www.atom.com.mm/en",
+			assignedPosition: "Web Developer",
+			fromDate: "March 2024",
+			toDate: "April 2024",
+			links: ["https://broadband-atom-com-mm.vercel.app/"],
+			descriptions: [
+				"Outsource",
+				"Collaborate with UI/UX team and implemented a broadband information website.",
+				"Technologies: HTML, CSS, Javascript, Tailwindcss, Vue, Nuxt.js, Vercel, Git/Github.",
 			],
 		},
 
@@ -143,11 +161,12 @@ export const resume: ResumeJson = {
 				"Developed Self Service Banking Portal using React.JS in which customers can open new bank accounts via online.",
 				"Implemented a Cash Management System using React.JS , Nest.JS , OracleDB which controls all the cash flow of all the KBZBank Branches.",
 				"Also implemented a Survey project using React.JS which users can answers survey for their satisfaction level for the service they get from the bank and the feedback.",
+				"Technologies: HTML, CSS, Javascript, TailwindCss, React.js, Remix.js, Node.js, Nest.js, AWS S3, AWS Ec2, AWS Cloudfront, AWS Lambda, Git/Github, OracleDB.",
 			],
 		},
 
 		{
-			companyName: "Future Hub Myanmar",
+			companyName: "FutureHub Myanmar",
 			companyUrl: "https://futurehubmyanmar.com/",
 			assignedPosition: "Senior Web Developer",
 			fromDate: "March 2020",
@@ -161,6 +180,7 @@ export const resume: ResumeJson = {
 				"Developed a 'Real Estate System' which includes the functionality to search for houses for rent and purchase across Myanmar.",
 				"Developed a 'Mini POS System' that includes simple functions such as printing receipts, product categories and product quantities in store.",
 				"Helped and trained juniors.",
+				"Technologies: HTML, CSS, Javascript, TailwindCss, Vue.js, PHP, Laravel, AWS S3, AWS Ec2, Git/Gitlab, Postgres.",
 			],
 		},
 
@@ -171,7 +191,11 @@ export const resume: ResumeJson = {
 			fromDate: "Oct 2021",
 			toDate: "Feb 2022",
 			links: ["https://www.nanyan.com.mm/"],
-			descriptions: ["Developed e-commerce dashboard for Nanyan Company.", "Outsource"],
+			descriptions: [
+				"Outsource",
+				"Developed e-commerce dashboard for Nanyan Company.",
+				"Technologies: HTML, CSS, Javascript, TailwindCss, React.js, Node.js, Nest.js, MongoDB, AWS S3, Digital Ocean, Git/Github.",
+			],
 		},
 
 		{
@@ -184,6 +208,7 @@ export const resume: ResumeJson = {
 			descriptions: [
 				"Developed an automation system for internal team using Ui-Path.",
 				"The product helps employees upload their documents to the server automatically on working days. Before uploading, I used Python to extract data from the documents and calculate the product price and quantity provided by the employee. The product also sends an email to the employee's supervisor when the product price or quantity does not match expectations.",
+				"Technologies: Python, UiPath.",
 			],
 		},
 	],

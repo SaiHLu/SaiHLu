@@ -4,7 +4,7 @@ export const resume: ResumeJson = {
 	positionAppliedFor: "Software Engineer",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `Hi, I'm a software engineer who is always trying to improve systems to make them more flexible, reliable and scalable. I have more than 4+ years of experience in software development. I can work with professionals in various fields and am willing to learn new things. I like playing video games and watching technology-related videos on YouTube. I'm currently interested in GoLang and learning Data structures and algorithms using Golang. github repository: https://github.com/SaiHLu/dsa`,
+	biography: `Hi, I'm a software engineer passionate about enhancing systems to be more flexible, reliable, and scalable. With over 5 years of experience in software development, I collaborate effectively with professionals across various domains and have a strong eagerness to learn new technologies. Currently, I’m focused on mastering GoLang, particularly in data structures and algorithms. In my free time, I enjoy playing video games and exploring tech content on YouTube. Check out my GitHub repository where I’m working on data structures and algorithms using GoLang: https://github.com/SaiHLu/dsa.`,
 
 	personalInfo: {
 		dateOfBirth: "08, 11, 1997",
@@ -126,12 +126,12 @@ export const resume: ResumeJson = {
 			toDate: "Present",
 			links: ["https://klink.cloud"],
 			descriptions: [
-				"SAAS Product includes contact center, omni channels and more.",
-				"Revamp Backend Service from all-in-one service to multiple services",
-				"Standardize the Backend Development decisions such as using Nest.JS, TypeScript and Golang.",
-				"Pre-plan and run Proof-of-Concepts of new technologies for the upcoming features.",
-				"Listen to Yeastar Telephone Server websocket using golang, processing data and publish the critical data to Apache Kafka",
-				"Technologies: HTML, CSS, Javascript, TailwindCss, React.js, Node.js, Nest.js, Golang, Apache Kafka, AWS S3, AWS Ec2, AWS Cloudfront, AWS MSK, AWS Codepipelines, Git/Github, Postgres.",
+				"Developed a SAAS product featuring a contact center, omni-channel support, and additional services.",
+				"Led the migration of backend architecture from a single database to a dynamic, multi-database system.",
+				"Established standards for backend development, including the adoption of NestJS, TypeScript, and Golang.",
+				"Conducted pre-planning and proof-of-concept evaluations for new technologies to support upcoming features.",
+				"Integrated Yeastar Telephone Server with Golang to process websocket data, publishing critical information to Apache Kafka.",
+				"Technologies used: HTML, CSS, JavaScript, TailwindCSS, React.js, Node.js, NestJS, Golang, Apache Kafka, AWS S3, AWS EC2, AWS CloudFront, AWS MSK, AWS CodePipeline, Git/GitHub, PostgreSQL.",
 			],
 		},
 
@@ -145,7 +145,7 @@ export const resume: ResumeJson = {
 			descriptions: [
 				"Outsource",
 				"Collaborate with UI/UX team and implemented a broadband information website.",
-				"Technologies: HTML, CSS, Javascript, Tailwindcss, Vue, Nuxt.js, Vercel, Git/Github.",
+				"Technologies used: HTML, CSS, Javascript, Tailwindcss, Vue, Nuxt.js, Vercel, Git/Github.",
 			],
 		},
 
@@ -160,8 +160,8 @@ export const resume: ResumeJson = {
 				"Actively participated in migration from JavaScript to Typescript with React.JS for the whole KBZBank Frontend Development Team.",
 				"Developed Self Service Banking Portal using React.JS in which customers can open new bank accounts via online.",
 				"Implemented a Cash Management System using React.JS , Nest.JS , OracleDB which controls all the cash flow of all the KBZBank Branches.",
-				"Also implemented a Survey project using React.JS which users can answers survey for their satisfaction level for the service they get from the bank and the feedback.",
-				"Technologies: HTML, CSS, Javascript, TailwindCss, React.js, Remix.js, Node.js, Nest.js, AWS S3, AWS Ec2, AWS Cloudfront, AWS Lambda, Git/Github, OracleDB.",
+				"Developed a survey application using React.js, enabling users to provide feedback and rate their satisfaction with banking services.",
+				"Technologies used: HTML, CSS, Javascript, TailwindCss, React.js, Remix.js, Node.js, Nest.js, AWS S3, AWS Ec2, AWS Cloudfront, AWS Lambda, Git/Github, OracleDB.",
 			],
 		},
 
@@ -173,14 +173,14 @@ export const resume: ResumeJson = {
 			toDate: "July 2022",
 			links: ["https://futurehubmyanmar.com/"],
 			descriptions: [
-				"A 'case management system' was maintained for the government (before the coup) to check application forms submitted by different organizations. Ministries could check the application forms and forward them internally to the relevant departments whether to approve/reject.",
-				"Developed a 'Game Portal System' for Billiard game. Buy/Sell coins and check user activities during the game.",
-				"Developed a 'Line Work Notification Reminder System' based on the “Time King” attendance record, which automatically notifies employees and their supervisors/managers at 04:50 pm on working days whether they need to apply for lateness. Supervisors and managers will also be notified to approve/reject the request.",
-				"Developed a 'Membership System' for hotel bookings.",
-				"Developed a 'Real Estate System' which includes the functionality to search for houses for rent and purchase across Myanmar.",
-				"Developed a 'Mini POS System' that includes simple functions such as printing receipts, product categories and product quantities in store.",
-				"Helped and trained juniors.",
-				"Technologies: HTML, CSS, Javascript, TailwindCss, Vue.js, PHP, Laravel, AWS S3, AWS Ec2, Git/Gitlab, Postgres.",
+				"Maintained a 'Case Management System' for the government to process and review application forms submitted by various organizations. Ministries could review and forward applications to relevant departments for approval or rejection.",
+				"Developed a 'Game Portal System' for a Billiards game, featuring coin transactions and user activity tracking during gameplay.",
+				"Created a 'Line Work Notification Reminder System' based on 'Time King' attendance records, automatically notifying employees and their supervisors/managers at 4:50 PM on workdays to apply for lateness if needed. Supervisors and managers receive notifications to approve or reject requests.",
+				"Built a 'Membership System' for managing hotel bookings.",
+				"Developed a 'Real Estate System' enabling users to search for rental and purchase properties across Myanmar.",
+				"Designed a 'Mini POS System' with basic functionalities, including receipt printing, product categorization, and stock management.",
+				"Mentored and trained junior developers.",
+				"Technologies used: HTML, CSS, Javascript, TailwindCss, Vue.js, PHP, Laravel, AWS S3, AWS Ec2, Git/Gitlab, Postgres.",
 			],
 		},
 
@@ -194,7 +194,7 @@ export const resume: ResumeJson = {
 			descriptions: [
 				"Outsource",
 				"Developed e-commerce dashboard for Nanyan Company.",
-				"Technologies: HTML, CSS, Javascript, TailwindCss, React.js, Node.js, Nest.js, MongoDB, AWS S3, Digital Ocean, Git/Github.",
+				"Technologies used: HTML, CSS, Javascript, TailwindCss, React.js, Node.js, Nest.js, MongoDB, AWS S3, Digital Ocean, Git/Github.",
 			],
 		},
 
@@ -206,9 +206,9 @@ export const resume: ResumeJson = {
 			toDate: "July 2019",
 			links: ["https://www.huawei.com/en/"],
 			descriptions: [
-				"Developed an automation system for internal team using Ui-Path.",
-				"The product helps employees upload their documents to the server automatically on working days. Before uploading, I used Python to extract data from the documents and calculate the product price and quantity provided by the employee. The product also sends an email to the employee's supervisor when the product price or quantity does not match expectations.",
-				"Technologies: Python, UiPath.",
+				"Developed an internal automation system using UiPath to streamline document uploads for the team.",
+				"The system automates document uploads to the server on workdays, with Python extracting data to calculate product prices and quantities. It also notifies supervisors via email when discrepancies in price or quantity are detected.",
+				"Technologies used: Python, UiPath.",
 			],
 		},
 	],

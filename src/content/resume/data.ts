@@ -11,7 +11,7 @@ export const resume: ResumeJson = {
 		nationality: "Myanmar",
 		religion: "Buddhism",
 		maritalStatus: "married",
-		address: "Yangon, Myanmar",
+		address: "The Kith Plus Sukhumvit 113, Building A, Floor 8, Room 912/183",
 	},
 
 	contactInfo: {

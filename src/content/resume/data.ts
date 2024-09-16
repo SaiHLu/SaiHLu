@@ -11,7 +11,7 @@ export const resume: ResumeJson = {
 		nationality: "Myanmar",
 		religion: "Buddhism",
 		maritalStatus: "married",
-		address: "The Kith Plus Sukhumvit 113, Building A, Floor 8, Room 912/183",
+		address: "Sukhumvit 113, Samrong Nuea, Mueang Samut Prakan District, Samut Prakan 10270.",
 	},
 
 	contactInfo: {

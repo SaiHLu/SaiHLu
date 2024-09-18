@@ -4,7 +4,7 @@ export const resume: ResumeJson = {
 	positionAppliedFor: "Software Engineer",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `Hi, I'm a software engineer passionate about enhancing systems to be more flexible, reliable, and scalable. With over 5 years of experience in software development, I collaborate effectively with professionals across various domains and have a strong eagerness to learn new technologies. Currently, I’m focused on mastering GoLang, particularly in data structures and algorithms. In my free time, I enjoy playing video games and exploring tech content on YouTube. Check out my GitHub repository where I’m working on data structures and algorithms using GoLang: https://github.com/SaiHLu/dsa.`,
+	biography: `Hi, I'm a software engineer passionate about enhancing systems to be more flexible, reliable, and scalable. With over 4 years of experience in software development, I collaborate effectively with professionals across various domains and have a strong eagerness to learn new technologies. Currently, I’m focused on mastering GoLang, particularly in data structures and algorithms. In my free time, I enjoy playing video games and exploring tech content on YouTube. Check out my GitHub repository where I’m working on data structures and algorithms using GoLang: https://github.com/SaiHLu/dsa.`,
 
 	personalInfo: {
 		dateOfBirth: "08, 11, 1997",

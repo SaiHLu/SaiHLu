@@ -15,7 +15,7 @@ export const resume: ResumeJson = {
 	},
 
 	contactInfo: {
-		phone: ["+95961282967"],
+		phone: ["+66993383740"],
 		email: ["saisailuhlaing@gmail.com"],
 		links: [
 			{

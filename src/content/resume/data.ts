@@ -4,7 +4,7 @@ export const resume: ResumeJson = {
 	positionAppliedFor: "Software Engineer",
 
 	// NOTE: Ideal character count is `550` characters.
-	biography: `Hi, I'm a software engineer passionate about enhancing systems to be more flexible, reliable, and scalable. With over 5 years of experience in software development, I collaborate effectively with professionals across various domains and have a strong eagerness to learn new technologies. Currently, I’m focused on mastering GoLang, particularly in data structures and algorithms. In my free time, I enjoy playing video games and exploring tech content on YouTube. Check out my GitHub repository where I’m working on data structures and algorithms using GoLang: https://github.com/SaiHLu/dsa.`,
+	biography: `Hi, I'm a software engineer passionate about enhancing systems to be more flexible, reliable, and scalable. With over 5 years of experience in software development, I collaborate effectively with professionals across various domains and have a strong eagerness to learn new technologies. Currently, I’m focused on mastering GoLang, particularly in data structures and algorithms. In my free time, I enjoy playing video games and exploring tech content on YouTube.`,
 
 	personalInfo: {
 		dateOfBirth: "08, 11, 1997",
@@ -61,6 +61,7 @@ export const resume: ResumeJson = {
 		"",
 		"Git",
 		"GitHub",
+		"Github Actions",
 		"GitLab",
 		"BitBucket",
 		"Jira",
@@ -77,6 +78,7 @@ export const resume: ResumeJson = {
 		"Vercel",
 		"Netlify",
 		"Docker",
+		"Kubernetes(Basic)",
 		"Firebase",
 	],
 
@@ -127,7 +129,7 @@ export const resume: ResumeJson = {
 			links: ["https://klink.cloud"],
 			descriptions: [
 				"Developed a SAAS product featuring a contact center, omni-channel support, and additional services.",
-				"Led the migration of backend architecture from a single database to a dynamic, multi-database system.",
+				"Lead the migration of backend architecture from a single database to a dynamic, multi-database system.",
 				"Established standards for backend development, including the adoption of NestJS, TypeScript, and Golang.",
 				"Conducted pre-planning and proof-of-concept evaluations for new technologies to support upcoming features.",
 				"Integrated Yeastar Telephone Server with Golang to process websocket data, publishing critical information to Apache Kafka.",

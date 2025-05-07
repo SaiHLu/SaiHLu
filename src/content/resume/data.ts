@@ -78,8 +78,9 @@ export const resume: ResumeJson = {
 		"Vercel",
 		"Netlify",
 		"Docker",
-		"Kubernetes(Basic)",
+		"Kubernetes",
 		"Firebase",
+		"GRPC"
 	],
 
 	educationHistory: [

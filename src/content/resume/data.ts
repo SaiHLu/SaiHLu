@@ -126,7 +126,7 @@ export const resume: ResumeJson = {
 			companyUrl: "https://www.klink.cloud",
 			assignedPosition: "Senior Software Enginner",
 			fromDate: "Oct 2023",
-			toDate: "Present",
+			toDate: "May 2025",
 			links: ["https://klink.cloud"],
 			descriptions: [
 				"Developed a SAAS product featuring a contact center, omni-channel support, and additional services.",

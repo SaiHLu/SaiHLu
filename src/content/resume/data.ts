@@ -52,6 +52,8 @@ export const resume: ResumeJson = {
 		"Nest.JS",
 		"GoLang",
 		"Laravel",
+		"Python",
+		"FastAPI",
 		"MySQL",
 		"Postgres",
 		"MongoDB",
@@ -80,7 +82,10 @@ export const resume: ResumeJson = {
 		"Docker",
 		"Kubernetes",
 		"Firebase",
-		"GRPC"
+		"GRPC",
+		"LLM",
+		"Langchain",
+		"Langgraph"
 	],
 
 	educationHistory: [

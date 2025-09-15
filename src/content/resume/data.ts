@@ -135,7 +135,7 @@ export const resume: ResumeJson = {
 			links: ["https://klink.cloud"],
 			descriptions: [
 				"Developed a SAAS product featuring a contact center, omni-channel support, and additional services.",
-				"As a Senior Software Engineer, I played a key role in leading the migration of the backend architecture from a single-database system to a multi-database SaaS architecture using NestJS, Golang, and AWS, while working closely with cross-functional teams to deliver new features efficiently.",
+				"As a Senior Software Engineer, I contributed to the migration of the backend from a single-database system to a multi-database SaaS architecture using NestJS, Golang, and AWS, and worked closely with the team to deliver features efficiently.",
 				"Established standards for backend development, including the adoption of NestJS, TypeScript, and Golang.",
 				"Conducted pre-planning and proof-of-concept evaluations for new technologies to support upcoming features.",
 				"Integrated Yeastar Telephone Server with Golang to process websocket data, publishing critical information to Apache Kafka.",
